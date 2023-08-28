@@ -1,6 +1,5 @@
 # Indoors-Traversability-Estimation-with-RGB-Laser-Fusion
 
-# Indoors-Traversability-Estimation-with-Less-Labels for Mobile Robots
 
 
 1. Open a terminal window
